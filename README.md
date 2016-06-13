@@ -1,5 +1,5 @@
-# BioinfomaticsKit
-A bioinfomatics kit that could be process many file format and complet many trivial function in a simple way. It's portable, standalone, editable.
+# BioinformaticsKit
+A bioinformatics kit that could be process many file format and complet many trivial function in a simple way. It's portable, standalone, editable.
 
 # Usage
 1. uncompressing file
